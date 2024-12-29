@@ -24,3 +24,11 @@ This project simulates a 4-innings Test cricket match on a ball-by-ball basis us
    - Assigned bowling probabilities based on personal experience.
 3. **Simulation Implementation**: 
    - Developed in VBA to simulate each ball, update scorecards, and log match results.
+
+### Note
+
+To run the `CricketMatchSimulation.xlsm` file, you need to keep a file `BCNNvba.xla` in the same repository as the `CricketMatchSimulation.xlsm` file. This file is not included in the repository as it belongs to the author of the book *Discrete-Event System Simulation* and can be found on the author's website. The website link is not provided here as it frequently changes.
+
+## Conclusion
+
+The project demonstrates the use of VBA in simulating a cricket match, utilizing empirical probability distributions and providing a detailed analysis of the match outcomes.
